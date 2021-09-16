@@ -52,5 +52,3 @@ function chooseBestSum(totalDistance, stops, distances) {
 }
 
 module.exports = chooseBestSum;
-
-// for every distance,
